@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration><input><net-file value="C:\Users\ACER\Downloads\New folder (3)\ITS_Group3\highway.net.xml" /><route-files value="C:\Users\ACER\Downloads\New folder (3)\ITS_Group3\highway_dense.rou.xml" /><additional-files value="C:\Users\ACER\Downloads\New folder (3)\ITS_Group3\output\member2\K2_dense_with_incident\member2_highway.add.xml" /></input><time><begin value="0.0" /><end value="3600.0" /><step-length value="1" /></time><report><no-step-log value="true" /></report></configuration>

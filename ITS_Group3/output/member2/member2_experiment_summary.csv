@@ -1,0 +1,4 @@
+﻿scenario_id,title,seed,simulated_seconds,simulation_steps,wall_time_seconds,incident_status,output_dir
+K1_sparse_with_incident,Mat do thap + tiem su co dung xe,42,3755.0,3755,3.1902088999631815,completed,C:\Users\ACER\Downloads\New folder (3)\ITS_Group3\output\member2\K1_sparse_with_incident
+K2_dense_with_incident,Mat do cao + tiem su co dung xe,43,3774.0,3774,5.341099500015844,completed,C:\Users\ACER\Downloads\New folder (3)\ITS_Group3\output\member2\K2_dense_with_incident
+K3_dense_without_incident,Mat do cao tu nhien + khong tiem su co,43,3949.0,3949,5.4829180999659,not_configured,C:\Users\ACER\Downloads\New folder (3)\ITS_Group3\output\member2\K3_dense_without_incident
