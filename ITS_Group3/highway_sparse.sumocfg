@@ -1,9 +1,0 @@
-<configuration>
-    <input>
-        <net-file value="highway.net.xml"/>
-        <route-files value="highway_sparse.rou.xml"/>
-        <additional-files value="highway.add.xml"/>
-    </input>
-    <time><begin value="0"/><end value="3600"/><step-length value="1"/></time>
-    <report><no-step-log value="true"/></report>
-</configuration>

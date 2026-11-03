@@ -1,0 +1,2 @@
+﻿scenario_id,status,scheduled_time,actual_start_time,release_time,vehicle_id,edge_id,lane_id,target_position_m,actual_position_m,position_error_m,initial_speed_mps,incident_duration_s,message
+K1_sparse_with_incident,completed,900.0,900.0,1200.0,f_car.239,E_main,E_main_0,1750.0,1865.7295126028023,115.72951260280229,21.697767131399097,300.0,Da chon ngau nhien mot xe trong vung tiem su co.
