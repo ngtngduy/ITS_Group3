@@ -1,0 +1,22 @@
+{
+  "scenario_id": "K2_dense_with_incident",
+  "status": "completed",
+  "config": {
+    "enabled": true,
+    "scheduled_time": 900.0,
+    "edge_id": "E_main",
+    "target_position": 1750.0,
+    "search_radius": 125.0,
+    "duration": 300.0,
+    "max_wait": 120.0,
+    "min_initial_speed": 0.5,
+    "seed": 43,
+    "disable_speed_checks": true
+  },
+  "vehicle_id": "f_car.1127",
+  "actual_start_time": 900.0,
+  "release_time": 1200.0,
+  "actual_position_m": 1862.9003309963764,
+  "lane_id": "E_main_0",
+  "message": "Da chon ngau nhien mot xe trong vung tiem su co."
+}

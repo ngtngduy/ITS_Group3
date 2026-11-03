@@ -1,1 +1,0 @@
-﻿scenario_id,status,scheduled_time,actual_start_time,release_time,vehicle_id,edge_id,lane_id,target_position_m,actual_position_m,position_error_m,initial_speed_mps,incident_duration_s,message
