@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Luong DONG (gio cao diem): ~5400 xe/h/3 lan (~1800 xe/h/lan, gan nang luc), 8% xe tai -->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="car"   vClass="passenger" length="4.5"  accel="2.6" decel="4.5" sigma="0.5" tau="1.0" minGap="2.5" maxSpeed="38.9" speedFactor="normc(1.0,0.1,0.8,1.2)"/>
+    <vType id="truck" vClass="truck"     length="12.0" accel="1.3" decel="4.0" sigma="0.5" tau="1.2" minGap="3.0" maxSpeed="25.0" speedFactor="normc(0.95,0.05,0.85,1.0)"/>
+    <route id="r_main" edges="E_main"/>
+    <flow id="f_car"   type="car"   route="r_main" begin="0" end="3600" vehsPerHour="4968" departLane="random" departSpeed="max" departPos="base"/>
+    <flow id="f_truck" type="truck" route="r_main" begin="0" end="3600" vehsPerHour="432"  departLane="random" departSpeed="max" departPos="base"/>
+</routes>
