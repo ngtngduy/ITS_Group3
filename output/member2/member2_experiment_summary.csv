@@ -1,0 +1,2 @@
+﻿scenario_id,title,seed,simulated_seconds,simulation_steps,wall_time_seconds,incident_status,output_dir
+K3_dense_without_incident,Mat do cao tu nhien + khong tiem su co,43,3949.0,3949,2.5012000000024273,not_configured,D:\ITS_Group3-main\output\member2\K3_dense_without_incident

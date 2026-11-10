@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- highway.add.xml : 7 tram E1 (S1..S7) cach nhau 500 m, moi tram 3 detector (1 detector/lan) = 21 detector -->
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Tram S1 tai vi tri 500 m -->
+    <inductionLoop id="S1_L0" lane="E_main_0" pos="500" period="30" file="output/e1_S1.xml"/>
+    <inductionLoop id="S1_L1" lane="E_main_1" pos="500" period="30" file="output/e1_S1.xml"/>
+    <inductionLoop id="S1_L2" lane="E_main_2" pos="500" period="30" file="output/e1_S1.xml"/>
+    <!-- Tram S2 tai vi tri 1000 m -->
+    <inductionLoop id="S2_L0" lane="E_main_0" pos="1000" period="30" file="output/e1_S2.xml"/>
+    <inductionLoop id="S2_L1" lane="E_main_1" pos="1000" period="30" file="output/e1_S2.xml"/>
+    <inductionLoop id="S2_L2" lane="E_main_2" pos="1000" period="30" file="output/e1_S2.xml"/>
+    <!-- Tram S3 tai vi tri 1500 m -->
+    <inductionLoop id="S3_L0" lane="E_main_0" pos="1500" period="30" file="output/e1_S3.xml"/>
+    <inductionLoop id="S3_L1" lane="E_main_1" pos="1500" period="30" file="output/e1_S3.xml"/>
+    <inductionLoop id="S3_L2" lane="E_main_2" pos="1500" period="30" file="output/e1_S3.xml"/>
+    <!-- Tram S4 tai vi tri 2000 m -->
+    <inductionLoop id="S4_L0" lane="E_main_0" pos="2000" period="30" file="output/e1_S4.xml"/>
+    <inductionLoop id="S4_L1" lane="E_main_1" pos="2000" period="30" file="output/e1_S4.xml"/>
+    <inductionLoop id="S4_L2" lane="E_main_2" pos="2000" period="30" file="output/e1_S4.xml"/>
+    <!-- Tram S5 tai vi tri 2500 m -->
+    <inductionLoop id="S5_L0" lane="E_main_0" pos="2500" period="30" file="output/e1_S5.xml"/>
+    <inductionLoop id="S5_L1" lane="E_main_1" pos="2500" period="30" file="output/e1_S5.xml"/>
+    <inductionLoop id="S5_L2" lane="E_main_2" pos="2500" period="30" file="output/e1_S5.xml"/>
+    <!-- Tram S6 tai vi tri 3000 m -->
+    <inductionLoop id="S6_L0" lane="E_main_0" pos="3000" period="30" file="output/e1_S6.xml"/>
+    <inductionLoop id="S6_L1" lane="E_main_1" pos="3000" period="30" file="output/e1_S6.xml"/>
+    <inductionLoop id="S6_L2" lane="E_main_2" pos="3000" period="30" file="output/e1_S6.xml"/>
+    <!-- Tram S7 tai vi tri 3500 m -->
+    <inductionLoop id="S7_L0" lane="E_main_0" pos="3500" period="30" file="output/e1_S7.xml"/>
+    <inductionLoop id="S7_L1" lane="E_main_1" pos="3500" period="30" file="output/e1_S7.xml"/>
+    <inductionLoop id="S7_L2" lane="E_main_2" pos="3500" period="30" file="output/e1_S7.xml"/>
+</additional>

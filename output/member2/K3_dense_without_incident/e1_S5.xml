@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2026-11-11T00:20:47.530311+07:00 by Eclipse SUMO sumo 1.28.0
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="D:\ITS_Group3-main\output\member2\K3_dense_without_incident\../../../highway.net.xml"/>
+        <route-files value="D:\ITS_Group3-main\output\member2\K3_dense_without_incident\../../../highway_dense.rou.xml"/>
+        <additional-files value="D:\ITS_Group3-main\output\member2\K3_dense_without_incident\member2_highway.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0.0"/>
+        <end value="3600.0"/>
+        <step-length value="1"/>
+    </time>
+
+    <report>
+        <no-step-log value="true"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="55500"/>
+    </traci_server>
+
+</sumoConfiguration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+</detector>

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration><input><net-file value="../../../highway.net.xml" /><route-files value="../../../highway_dense.rou.xml" /><additional-files value="member2_highway.add.xml" /></input><time><begin value="0.0" /><end value="3600.0" /><step-length value="1" /></time><report><no-step-log value="true" /></report></configuration>

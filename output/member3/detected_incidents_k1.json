@@ -1,0 +1,14 @@
+[
+    {
+        "detection_time": 990,
+        "upstream": "S2_L1",
+        "downstream": "S3_L1",
+        "lane": "_L1"
+    },
+    {
+        "detection_time": 1770,
+        "upstream": "S3_L0",
+        "downstream": "S4_L0",
+        "lane": "_L0"
+    }
+]

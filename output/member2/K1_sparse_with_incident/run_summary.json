@@ -1,0 +1,19 @@
+{
+  "scenario_id": "K1_sparse_with_incident",
+  "title": "Mat do thap + tiem su co dung xe",
+  "seed": 42,
+  "output_dir": "D:\\ITS_Group3-main\\output\\member2\\K1_sparse_with_incident",
+  "simulated_seconds": 3755.0,
+  "simulation_steps": 3755,
+  "wall_time_seconds": 1.341749199997139,
+  "incident_status": "completed",
+  "detector_output_files": [
+    "D:\\ITS_Group3-main\\output\\member2\\K1_sparse_with_incident\\e1_S1.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K1_sparse_with_incident\\e1_S2.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K1_sparse_with_incident\\e1_S3.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K1_sparse_with_incident\\e1_S4.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K1_sparse_with_incident\\e1_S5.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K1_sparse_with_incident\\e1_S6.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K1_sparse_with_incident\\e1_S7.xml"
+  ]
+}

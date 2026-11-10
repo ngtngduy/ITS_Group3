@@ -1,0 +1,19 @@
+{
+  "scenario_id": "K3_dense_without_incident",
+  "title": "Mat do cao tu nhien + khong tiem su co",
+  "seed": 43,
+  "output_dir": "D:\\ITS_Group3-main\\output\\member2\\K3_dense_without_incident",
+  "simulated_seconds": 3949.0,
+  "simulation_steps": 3949,
+  "wall_time_seconds": 2.5012000000024273,
+  "incident_status": "not_configured",
+  "detector_output_files": [
+    "D:\\ITS_Group3-main\\output\\member2\\K3_dense_without_incident\\e1_S1.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K3_dense_without_incident\\e1_S2.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K3_dense_without_incident\\e1_S3.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K3_dense_without_incident\\e1_S4.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K3_dense_without_incident\\e1_S5.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K3_dense_without_incident\\e1_S6.xml",
+    "D:\\ITS_Group3-main\\output\\member2\\K3_dense_without_incident\\e1_S7.xml"
+  ]
+}
