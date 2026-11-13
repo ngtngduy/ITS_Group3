@@ -1,0 +1,2 @@
+﻿sim_time_s,wall_time,station_upstream,station_downstream,position_start_m,position_end_m,vehicle_id,docc_diff,occrdf_ratio,severity,status,description
+1050.0,18:02:43,S3,S4,1500.0,2000.0,f_car.1123,16.433291134683763,0.6932986480686164,CRITICAL,CONFIRMED,Su co chenh lech OCC giua S3 va S4
